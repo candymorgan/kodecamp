@@ -183,9 +183,9 @@ body{
     
 
     }
-    @media only screen and (max-width: 500px){
+    @media only screen and (max-width: 450px){
         .container{
-            width: 100%;
+            width: 95%;
             background-color:rgb(248, 248, 197);
             border-top-left-radius: 1px;
             border-top-right-radius: 1px;
@@ -204,7 +204,7 @@ body{
         border: 1px solid blue;
         border-radius: 5px;
         color: white;
-        margin-left: 155px;
+        margin-left: 120px;
         margin-top: 10px;
         font-family: sans-serif;
         font-size: 16px;
